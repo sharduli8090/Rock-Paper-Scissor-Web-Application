@@ -1,0 +1,11 @@
+#btn-play,#score,#user-title{
+    display:none;
+}
+.img-start{
+    height: 100px;
+    width: 100px;
+}
+
+body{
+    background-color: #2e9fa6;
+}
